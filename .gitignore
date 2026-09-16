@@ -1,0 +1,13 @@
+/pocs/*/poc
+/pocs/CVE-2026-52910/filter-gen
+/pocs/*/*.o
+
+/vm/.build.*
+/vm/ssh/
+/vm/ubuntu-*.qcow2
+
+*.img
+*.iso
+*.log
+*.swp
+__pycache__/
